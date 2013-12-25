@@ -1,7 +1,7 @@
-LeapHolidayJS
+LeapHolidaySpectrum
 =============
 
-A Chrome app (Javascript) implementation of LeapHoliday.
+Another Chrome App in the LeapHoliday series.
 Use your Leap Motion to control colour selection on your <a href="http://moorescloud.com">Holiday</a> 
 by <a href="https://github.com/moorescloud">MooresCloud</a>.
 
