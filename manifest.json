@@ -1,0 +1,20 @@
+{
+  "name": "LeapHolidaySpectrum",
+  "description": "Control your Holiday by MooresCloud with your Leap Motion",
+  "manifest_version": 2,
+  "version": "0.2",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "permissions": [
+    {
+      "socket": [
+        "udp-bind:*",
+        "udp-send-to:*"
+      ]
+    }
+  ],
+  "icons": { "128": "img/spectrum.png", "16": "img/spectrum.png" }
+}
